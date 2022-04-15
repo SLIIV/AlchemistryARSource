@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbf2f701779ece64095a7faecb81230e, type: 3}
+  m_Name: PhilosopherStone
+  m_EditorClassIdentifier: 
+  _name: "\u0424\u0438\u043B\u043E\u0441\u043E\u0444\u0441\u043A\u0438\u0439 \u043A\u0430\u043C\u0435\u043D\u044C"
+  _prefab: {fileID: 2669796805524613775, guid: bbd382f997e93444e9dfb9d8060f28be, type: 3}
+  _image: {fileID: 21300000, guid: f5aa115bcb521894ba0aa5d795eb2ca2, type: 3}
+  _price: 1000
+  _temperatureColors:
+  - {r: 0.6650944, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0.6179246, b: 0.6179246, a: 1}
+  _type: 0

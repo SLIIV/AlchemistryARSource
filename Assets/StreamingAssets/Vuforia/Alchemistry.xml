@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sand" size="0.100000 0.050000" />
+    <ImageTarget name="wine" size="0.100000 0.082764" />
+    <ImageTarget name="shell" size="0.100000 0.066930" />
+    <ImageTarget name="pearl" size="0.100000 0.075000" />
+    <ImageTarget name="grape" size="0.100000 0.129748" />
+    <ImageTarget name="dust" size="0.100000 0.074966" />
+    <ImageTarget name="Bacterium" size="0.100000 0.071333" />
+    <ImageTarget name="dirt" size="0.100000 0.075000" />
+    <ImageTarget name="silver" size="0.100000 0.072500" />
+    <ImageTarget name="snowflake" size="0.100000 0.107227" />
+    <ImageTarget name="fire" size="0.100000 0.075099" />
+    <ImageTarget name="background" size="0.300000 0.187500" />
+    <ImageTarget name="Gold" size="0.100000 0.066667" />
+    <ImageTarget name="Water" size="0.100000 0.113566" />
+  </Tracking>
+</QCARConfig>

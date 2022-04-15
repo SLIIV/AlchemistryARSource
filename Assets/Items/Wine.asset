@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbf2f701779ece64095a7faecb81230e, type: 3}
+  m_Name: Wine
+  m_EditorClassIdentifier: 
+  _name: "\u0412\u0438\u043D\u043E"
+  _prefab: {fileID: 2669796805524613775, guid: 2391d3e82bb7cc34a81674eded429475, type: 3}
+  _image: {fileID: 21300000, guid: 37bff4d83a635fb4da6172e066a851bc, type: 3}
+  _price: 100
+  _temperatureColors:
+  - {r: 0.6650944, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0.6179246, b: 0.6179246, a: 1}
+  _type: 0
